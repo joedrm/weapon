@@ -2,4 +2,4 @@
 
 关注公众号：flutter_todo 回复 简悦 获取源码
 
-[IMG]https://s2.loli.net/2022/11/09/fNBn2gWw8tVazkr.jpg[/IMG]
+![IMG](https://s2.loli.net/2022/11/09/fNBn2gWw8tVazkr.jpg)
