@@ -15,6 +15,11 @@
 Channel stable, 2.5.2
 ```
 
+项目地址：关注公众号：*flutter_todo* 回复 简悦 获取源码
+
+![IMG](https://s2.loli.net/2022/11/09/fNBn2gWw8tVazkr.jpg)
+
+
 PC端效果
 
 |                             Dark                             |                            Light                             |
@@ -46,7 +51,3 @@ PC端效果
 
 [v1.hitokoto.cn](https://v1.hitokoto.cn/)
 
-
-关注公众号：flutter_todo 回复 简悦 获取源码
-
-![IMG](https://s2.loli.net/2022/11/09/fNBn2gWw8tVazkr.jpg)
