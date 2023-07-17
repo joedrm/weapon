@@ -17,11 +17,14 @@ Channel stable, 2.5.2
 ```
 
 由于各种原因，暂时关闭了源码分享，只提供打包好的apk和Mac应用下载地址，且用且珍惜吧。
-Android：https://wwhu.lanzouj.com/iXPFA12qvffg 密码:dv4u
-MacOS：https://wwhu.lanzouj.com/icUp712qvk5g 密码:4gfm
+
+- Android：https://wwhu.lanzouj.com/iXPFA12qvffg 密码:dv4u
+- MacOS：https://wwhu.lanzouj.com/icUp712qvk5g 密码:4gfm
 
 功能和体验还在不断完善中，时间和个人经历有限，同时也希望有更多的打赏支持，才能有更新下去的动力。
+
 ![2811689582306_.pic.jpg](https://s2.loli.net/2023/07/17/3PEbMZSeTs42jyK.jpg/w/220)
+
 ![2791689582224_.pic.jpg](https://s2.loli.net/2023/07/17/VU3o2yXQN5i9aGD.jpg/w/220)
 
 
