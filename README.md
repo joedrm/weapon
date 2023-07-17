@@ -21,7 +21,7 @@ Channel stable, 2.5.2
 - Android：https://wwhu.lanzouj.com/iXPFA12qvffg 密码:dv4u
 - MacOS：https://wwhu.lanzouj.com/icUp712qvk5g 密码:4gfm
 
-功能和体验还在不断完善中，时间和个人经历有限，同时也希望有更多的打赏支持，才能有更新下去的动力。
+功能和体验还在不断完善中，个人时间精力有限，但会尽力抽出时间来做迭代开发，同时也希望有更多的打赏支持，才能有更新下去的动力。
 
 <div>
   <img src="https://s2.loli.net/2023/07/17/3PEbMZSeTs42jyK.jpg" style="width: 180px">
