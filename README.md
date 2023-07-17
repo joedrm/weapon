@@ -23,9 +23,10 @@ Channel stable, 2.5.2
 
 功能和体验还在不断完善中，时间和个人经历有限，同时也希望有更多的打赏支持，才能有更新下去的动力。
 
-![2811689582306_.pic.jpg](https://s2.loli.net/2023/07/17/3PEbMZSeTs42jyK.jpg)
-
-![2791689582224_.pic.jpg](https://s2.loli.net/2023/07/17/VU3o2yXQN5i9aGD.jpg)
+<div>
+  <img src="https://s2.loli.net/2023/07/17/3PEbMZSeTs42jyK.jpg" style="width: 200px">
+  <img src="https://s2.loli.net/2023/07/17/VU3o2yXQN5i9aGD.jpg" style="width: 200px">
+</div>
 
 
 PC端效果
