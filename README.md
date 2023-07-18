@@ -18,8 +18,9 @@ Channel stable, 2.5.2
 
 由于各种原因，暂时关闭了源码分享，只提供打包好的apk和Mac应用下载地址，且用且珍惜吧。
 
-- Android：https://wwhu.lanzouj.com/iXPFA12qvffg 密码:dv4u
-- MacOS：https://wwhu.lanzouj.com/icUp712qvk5g 密码:4gfm
+- [Android](https://wwhu.lanzouj.com/ivhtS12tv7sj) 密码:evzc
+- [MacOS](https://wwhu.lanzouj.com/iCrpy12twhif) 密码:81w2
+
 
 功能和体验还在不断完善中，个人时间精力有限，但会尽力抽出时间来做迭代开发，同时也希望有更多的打赏支持，才能有更新下去的动力。
 
