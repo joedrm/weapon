@@ -17,14 +17,6 @@
 - [MacOS](https://wwhu.lanzouj.com/iCrpy12twhif) 密码:81w2
 
 
-功能和体验还在不断完善中，个人时间精力有限，但会尽力抽出时间来做迭代开发，同时也希望有更多的打赏支持，才能有更新下去的动力。
-
-<div>
-  <img src="https://s2.loli.net/2023/07/17/3PEbMZSeTs42jyK.jpg" style="width: 190px; height: 230px">
-  <img src="https://s2.loli.net/2023/07/17/VU3o2yXQN5i9aGD.jpg" style="width: 190px; height: 230px">
-</div>
-
-
 ### PC端效果
 
 |                             Dark                             |                            Light                             |
